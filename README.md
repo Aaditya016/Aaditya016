@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ajxfifa19" target="blank"><img src="https://img.shields.io/twitter/follow/ajxfifa19?logo=twitter&style=for-the-badge" alt="ajxfifa19" /></a> </p>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Web Development, Android**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **luckyadijain16@gmail.com**
 
